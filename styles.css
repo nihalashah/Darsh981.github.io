@@ -16,7 +16,7 @@ h1{
 img:hover{
     cursor:pointer;
     transform:scale(1.1);
-    transition: transform .5s all ease-in;
+    transition: transform 1s ease-in;
 
 }
 
